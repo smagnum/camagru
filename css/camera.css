@@ -1,0 +1,125 @@
+#grad {
+  background-image: linear-gradient(to right, #ffffff 20% , #50143e);
+    margin-bottom: 50px;
+}
+.camagru {
+  font-family: 'Satisfy', cursive;
+  font-size: 50px;
+  color: #FF4E6A;
+  position:absolute;
+  top:10px;
+  left:10px;
+}
+
+  #video {
+    width: 100%;
+    height: 100%;
+  }
+  #canvas{
+    width: 100%;
+    height: 100%;
+  }
+  .logout{
+    position: absolute;
+    right: 200px;
+    top: 10px;
+    background-image: linear-gradient(to bottom,#e7882e 50% ,#ffd18b );
+    color: white;
+    border-radius: 10px;
+    margin-right: 5px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+  }
+
+  .outerContainer {
+    margin-top: 100px;
+    display: flex;
+    justify-content: left;
+  }
+  .upload{
+    margin-left: 12%; 
+  }
+  .no{
+    margin-top: 2%;
+    margin-left: 8%;
+  }
+  .p {
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 25px;
+    
+  }
+  .k{
+  height: 20px;
+  }
+  .p1{
+  background-color: whitesmoke;
+  height:18%;
+  width:95%;
+  border-radius: 25px;
+  padding: 35px;
+  padding-right: 0px;
+  position: static;
+  top: 1130px;
+  left: 20px;
+  display: contents;
+  }
+.emoji
+{
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #00d2ff;
+  flex-direction: row;
+  overflow-x:scroll; 
+}
+  #sticker
+{
+    position: absolute;
+    display: block;
+    top: 600px;
+    left: 10px;
+}
+#stickers
+{
+    position: absolute;
+    display: block;
+    top: 5px;
+    left: 5px;
+}
+.box{
+  background-color: whitesmoke;
+  height:4%;
+  width:50%;
+  padding-top: 1px;
+  display: block;
+  margin-top: 20px;
+  border-radius: 25px;
+  border: 3px solid black;
+  margin-left: 50px;
+}
+
+.right
+{
+    width: 32.5%;
+    height: 50%;
+    border: 2px solid black;
+    float: right;
+    margin-top: 100px;
+    margin-left: 50px;
+    border-radius: 10px;
+    overflow:auto;
+}
+#postes{
+  padding: 15px;
+  border-radius: 30px;
+}
+
+.copyright{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  font-size: 12pt;
+  background-image: linear-gradient(to right, #ffffff 20% , #50143e);
+  width: 100%;
+  text-align: center;
+}
